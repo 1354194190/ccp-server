@@ -20,8 +20,20 @@ CCP-Server是一个低代码开发平台。提供强大的接口开发逻辑，�
   
 
 ### 快速了解
+![工作区列表](./0.开发前必读/images/project-list.png)
+![工作区列表](./0.开发前必读/images/project-app-list.png)
+工作区管理
+
+
+![菜单列表](./0.开发前必读/images/menu.png)
+菜单列表
+
 ![CCP Server开发流程](./0.开发前必读/images/ccp.png)
 开发流程
+
+![CCP Server开发流程](./0.开发前必读/images/log.png)
+日志管理
+
 
 ## 接口管理
 提供接口管理功能，如创建，删除，编辑，设计等功能。
